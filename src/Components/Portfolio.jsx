@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "calM",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "E-learning plateform that helped a lot of new CS freshmen get familiar with computer architecture course.",
+    url: "https://calm.vercel.app/",
   },
   {
-    title: "Web Development for Beginners",
+    title: "My Desktop Planner",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Java application that helps organize your calendar tasks and events.",
+    url: "https://github.com/faresfares15/My-Desktop-Planner",
   },
   {
-    title: "My Resume Site",
+    title: "GigaFitness (on progress)",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Fitness app built using react native to help you get to the giga chad physique.",
+    url: "https://github.com/faresfares15/GigaFitness",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Giga Messaging (on progress)",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Web messaging app similar to messenger built using next.js and prisma",
+    url: "https://github.com/faresfares15/giga-messaging",
   },
 ];
 
